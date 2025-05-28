@@ -1,22 +1,10 @@
 🎓 Estudiante de Desarrollo de Aplicaciones Web | 1er Curso
-Apasionado por la tecnología y el desarrollo de software, actualmente me estoy formando como Técnico Superior en Desarrollo de Aplicaciones Web. En este primer año, estoy adquiriendo conocimientos sólidos en programación, bases de datos, entornos de desarrollo y diseño web. Me interesa especialmente la creación de soluciones prácticas y funcionales tanto en el front-end como en el back-end.
+
+Apasionado por la tecnología y el desarrollo de software, actualmente me estoy formando como Técnico Superior en Desarrollo de Aplicaciones Web. 
+
+En este primer año, estoy adquiriendo conocimientos sólidos en programación, bases de datos, entornos de desarrollo y diseño web. Me interesa especialmente la creación de soluciones prácticas y funcionales tanto en el front-end como en el back-end.
 
 🛠 Tecnologías que estoy aprendiendo:
 HTML, CSS, JavaScript, Java, MySQL, Git, y más.
 
 🚀 Con ganas de seguir creciendo, aprender de cada experiencia y comenzar a trabajar en proyectos reales que me permitan aplicar y mejorar mis habilidades.
-
-<!--
-**ianechu/ianechu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
